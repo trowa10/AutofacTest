@@ -1,0 +1,9 @@
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\bin\Debug\netstandard2.0\AutofacTest.deps.json
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\bin\Debug\netstandard2.0\AutofacTest.dll
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\obj\Debug\netstandard2.0\AutofacTest.csprojAssemblyReference.cache
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\obj\Debug\netstandard2.0\AutofacTest.csproj.CoreCompileInputs.cache
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\obj\Debug\netstandard2.0\AutofacTest.AssemblyInfoInputs.cache
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\obj\Debug\netstandard2.0\AutofacTest.AssemblyInfo.cs
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\bin\Debug\netstandard2.0\AutofacTest.pdb
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\obj\Debug\netstandard2.0\AutofacTest.dll
+C:\Users\trowa10\source\repos\AutofacTest\AutofacTest\obj\Debug\netstandard2.0\AutofacTest.pdb
